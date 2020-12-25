@@ -1,0 +1,22 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "A project that uses the javascript programming language to implement algorithms.",
+  "main": "src/main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Caesar-0925/Javascript-Algorithms.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Algorithm"
+  ],
+  "author": "Caesar-0925",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Caesar-0925/Javascript-Algorithms/issues"
+  },
+  "homepage": "https://github.com/Caesar-0925/Javascript-Algorithms#readme"
+}
