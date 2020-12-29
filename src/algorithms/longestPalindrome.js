@@ -25,7 +25,6 @@ function longestPalindrome(s) {
       }
     }
   }
-  console.log(dp)
   return ans
 }
 
